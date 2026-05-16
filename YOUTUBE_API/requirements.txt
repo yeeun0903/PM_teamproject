@@ -1,0 +1,7 @@
+google-api-python-client
+pandas
+isodate
+python-dotenv
+sqlalchemy
+pymysql
+plotly
