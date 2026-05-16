@@ -1,0 +1,293 @@
+- generic [ref=e11]:
+  - generic [ref=e13]:
+    - link "Instagram" [ref=e457] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=e458]
+    - generic [ref=e24]:
+      - link "로그인" [ref=e459] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Fcoupangplay%2Freels%2F&source=desktop_nav
+      - link "가입하기" [ref=e460] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=e29]:
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - button "coupangplay님의 프로필 사진" [disabled] [ref=e461]:
+          - link "coupangplay님의 프로필 사진" [disabled] [ref=e462]:
+            - img "coupangplay님의 프로필 사진" [ref=e463]
+        - generic [ref=e38]:
+          - generic [ref=e39]:
+            - generic [ref=e40]:
+              - heading "coupangplay" [level=2] [ref=e464]
+              - img "인증됨" [ref=e465]
+            - button "옵션" [ref=e466] [cursor=pointer]:
+              - img "옵션" [ref=e467]
+          - generic [ref=e53]: 쿠팡플레이 Coupang Play
+          - list [ref=e55]:
+            - listitem [ref=e56]:
+              - link "게시물 5520" [ref=e468] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e59]:
+                  - text: 게시물
+                  - generic [ref=e60]: "5520"
+            - listitem [ref=e61]:
+              - link "팔로워 18.8만" [ref=e469] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e64]:
+                  - text: 팔로워
+                  - generic "18.8만" [ref=e470]
+            - listitem [ref=e66]:
+              - link "팔로우 139" [ref=e471] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e69]:
+                  - text: 팔로우
+                  - generic [ref=e70]: "139"
+          - generic [ref=e76]:
+            - text: 😆<SNL 코리아> 매주 토 저녁 8시
+            - text: 💓<로맨스의 절댓값> 매주 금 저녁 8시 공개
+            - text: 🥐<봉주르빵집> 매주 금 오후 4시 공개
+      - menu [ref=e77]:
+        - generic [ref=e79]:
+          - list [ref=e81]:
+            - listitem [ref=e82]
+            - listitem [ref=e83]
+            - listitem [ref=e84]:
+              - menuitem "로맨스의 절댓값 하이라이트 보기 로맨스의 절댓값" [ref=e472] [cursor=pointer]:
+                - link "로맨스의 절댓값 하이라이트 보기" [ref=e473]:
+                  - /url: /stories/highlights/18076508714390442/
+                  - button "로맨스의 절댓값님의 프로필 사진" [disabled] [ref=e474]:
+                    - img "로맨스의 절댓값님의 프로필 사진" [ref=e475]
+                - generic [ref=e94]: 로맨스의 절댓값
+            - listitem [ref=e95]:
+              - menuitem "봉주르빵집 하이라이트 보기 봉주르빵집" [ref=e476] [cursor=pointer]:
+                - link "봉주르빵집 하이라이트 보기" [ref=e477]:
+                  - /url: /stories/highlights/18116516818669459/
+                  - button "봉주르빵집님의 프로필 사진" [disabled] [ref=e478]:
+                    - img "봉주르빵집님의 프로필 사진" [ref=e479]
+                - generic [ref=e105]: 봉주르빵집
+            - listitem [ref=e106]:
+              - menuitem "원희는 스무살 하이라이트 보기 원희는 스무살" [ref=e480] [cursor=pointer]:
+                - link "원희는 스무살 하이라이트 보기" [ref=e481]:
+                  - /url: /stories/highlights/17958524313105445/
+                  - button "원희는 스무살님의 프로필 사진" [disabled] [ref=e482]:
+                    - img "원희는 스무살님의 프로필 사진" [ref=e483]
+                - generic [ref=e116]: 원희는 스무살
+            - listitem [ref=e117]:
+              - menuitem "쿠레이션 하이라이트 보기 쿠레이션" [ref=e484] [cursor=pointer]:
+                - link "쿠레이션 하이라이트 보기" [ref=e485]:
+                  - /url: /stories/highlights/17999809448862583/
+                  - button "쿠레이션님의 프로필 사진" [disabled] [ref=e486]:
+                    - img "쿠레이션님의 프로필 사진" [ref=e487]
+                - generic [ref=e127]: 쿠레이션
+            - listitem [ref=e128]:
+              - menuitem "콘텐츠 패스 하이라이트 보기 콘텐츠 패스" [ref=e488] [cursor=pointer]:
+                - link "콘텐츠 패스 하이라이트 보기" [ref=e489]:
+                  - /url: /stories/highlights/18075733046530794/
+                  - button "콘텐츠 패스님의 프로필 사진" [disabled] [ref=e490]:
+                    - img "콘텐츠 패스님의 프로필 사진" [ref=e491]
+                - generic [ref=e138]: 콘텐츠 패스
+            - listitem [ref=e139]:
+              - menuitem "SNL 코리아 하이라이트 보기 SNL 코리아" [ref=e492] [cursor=pointer]:
+                - link "SNL 코리아 하이라이트 보기" [ref=e493]:
+                  - /url: /stories/highlights/18138593815510142/
+                  - button "SNL 코리아님의 프로필 사진" [disabled] [ref=e494]:
+                    - img "SNL 코리아님의 프로필 사진" [ref=e495]
+                - generic [ref=e149]: SNL 코리아
+            - listitem [ref=e150]:
+              - menuitem "쿠플 스포츠 하이라이트 보기 쿠플 스포츠" [ref=e496] [cursor=pointer]:
+                - link "쿠플 스포츠 하이라이트 보기" [ref=e497]:
+                  - /url: /stories/highlights/17939163405016266/
+                  - button "쿠플 스포츠님의 프로필 사진" [disabled] [ref=e498]:
+                    - img "쿠플 스포츠님의 프로필 사진" [ref=e499]
+                - generic [ref=e160]: 쿠플 스포츠
+            - listitem [ref=e161]:
+              - menuitem "샤크탱크 코리아 하이라이트 보기 샤크탱크 코리아" [ref=e500] [cursor=pointer]:
+                - link "샤크탱크 코리아 하이라이트 보기" [ref=e501]:
+                  - /url: /stories/highlights/17927190258065159/
+                  - button "샤크탱크 코리아님의 프로필 사진" [disabled] [ref=e502]:
+                    - img "샤크탱크 코리아님의 프로필 사진" [ref=e503]
+                - generic [ref=e171]: 샤크탱크 코리아
+          - button "다음" [ref=e504] [cursor=pointer]
+      - generic [ref=e174]:
+        - tablist [ref=e175]:
+          - link "게시물" [ref=e505] [cursor=pointer]:
+            - /url: /coupangplay/
+            - img "게시물" [ref=e506]
+          - link "릴스" [ref=e507] [cursor=pointer]:
+            - /url: "#"
+            - img "릴스" [ref=e508]
+          - link "태그됨" [ref=e509] [cursor=pointer]:
+            - /url: "#"
+            - img "태그됨" [ref=e510]
+        - tabpanel
+      - generic [ref=e196]:
+        - generic [ref=e197]:
+          - link "조회수 아이콘 3.6만" [ref=e511] [cursor=pointer]:
+            - /url: /coupangplay/reel/DYWn8hmSpMi/
+            - generic [ref=e206]:
+              - img "조회수 아이콘" [ref=e512]
+              - generic [ref=e210]: 3.6만
+          - link "조회수 아이콘 8455" [ref=e513] [cursor=pointer]:
+            - /url: /coupangplay/reel/DYWg_WgOl3x/
+            - generic [ref=e219]:
+              - img "조회수 아이콘" [ref=e514]
+              - generic [ref=e223]: "8455"
+          - link "조회수 아이콘 5.8만" [ref=e515] [cursor=pointer]:
+            - /url: /coupangplay/reel/DYWaR6aDFgI/
+            - generic [ref=e232]:
+              - img "조회수 아이콘" [ref=e516]
+              - generic [ref=e236]: 5.8만
+          - link "조회수 아이콘 14.8만" [ref=e517] [cursor=pointer]:
+            - /url: /coupangplay/reel/DYWFuO8CTr1/
+            - generic [ref=e245]:
+              - img "조회수 아이콘" [ref=e518]
+              - generic [ref=e249]: 14.8만
+        - generic [ref=e250]:
+          - link "조회수 아이콘 2.4만" [ref=e519] [cursor=pointer]:
+            - /url: /coupangplay/reel/DYUX6AVjbF0/
+            - generic [ref=e259]:
+              - img "조회수 아이콘" [ref=e520]
+              - generic [ref=e263]: 2.4만
+          - link "조회수 아이콘 4.6만" [ref=e521] [cursor=pointer]:
+            - /url: /coupangplay/reel/DYURBr1GRnz/
+            - generic [ref=e272]:
+              - img "조회수 아이콘" [ref=e522]
+              - generic [ref=e276]: 4.6만
+          - link "조회수 아이콘 1.6만" [ref=e523] [cursor=pointer]:
+            - /url: /coupangplay/reel/DYT8b0xDB4e/
+            - generic [ref=e285]:
+              - img "조회수 아이콘" [ref=e524]
+              - generic [ref=e289]: 1.6만
+          - link "조회수 아이콘 11.9만" [ref=e525] [cursor=pointer]:
+            - /url: /coupangplay/reel/DYTZ-3GjaAe/
+            - generic [ref=e298]:
+              - img "조회수 아이콘" [ref=e526]
+              - generic [ref=e302]: 11.9만
+        - generic [ref=e303]:
+          - link "조회수 아이콘 28.2만" [ref=e527] [cursor=pointer]:
+            - /url: /coupangplay/reel/DYTFblIGuH3/
+            - generic [ref=e312]:
+              - img "조회수 아이콘" [ref=e528]
+              - generic [ref=e316]: 28.2만
+          - link "조회수 아이콘 65.5만" [ref=e529] [cursor=pointer]:
+            - /url: /coupangplay/reel/DYS-j1ODsU8/
+            - generic [ref=e325]:
+              - img "조회수 아이콘" [ref=e530]
+              - generic [ref=e329]: 65.5만
+          - link "조회수 아이콘 10.9만" [ref=e531] [cursor=pointer]:
+            - /url: /coupangplay/reel/DYPHy77jpSb/
+            - generic [ref=e338]:
+              - img "조회수 아이콘" [ref=e532]
+              - generic [ref=e342]: 10.9만
+          - link "조회수 아이콘 2.6만" [ref=e533] [cursor=pointer]:
+            - /url: /coupangplay/reel/DYPHWgUgeEq/
+            - generic [ref=e351]:
+              - img "조회수 아이콘" [ref=e534]
+              - generic [ref=e355]: 2.6만
+  - contentinfo [ref=e356]:
+    - generic [ref=e357]:
+      - generic [ref=e359]:
+        - link "Meta" [ref=e535] [cursor=pointer]:
+          - /url: https://about.meta.com/
+          - generic [ref=e362]: Meta
+        - link "소개" [ref=e536] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+          - generic [ref=e365]: 소개
+        - link "블로그" [ref=e537] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+          - generic [ref=e368]: 블로그
+        - link "채용 정보" [ref=e538] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+          - generic [ref=e371]: 채용 정보
+        - link "도움말" [ref=e539] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+          - generic [ref=e374]: 도움말
+        - link "API" [ref=e540] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+          - generic [ref=e377]: API
+        - link "개인정보처리방침" [ref=e541] [cursor=pointer]:
+          - /url: /legal/privacy/
+          - generic [ref=e380]: 개인정보처리방침
+        - link "약관" [ref=e542] [cursor=pointer]:
+          - /url: /legal/terms/
+          - generic [ref=e383]: 약관
+        - link "위치" [ref=e543] [cursor=pointer]:
+          - /url: /explore/locations/
+          - generic [ref=e386]: 위치
+        - link "인기" [ref=e544] [cursor=pointer]:
+          - /url: /popular/
+          - generic [ref=e389]: 인기
+        - link "Instagram Lite" [ref=e545] [cursor=pointer]:
+          - /url: /web/lite/
+          - generic [ref=e392]: Instagram Lite
+        - link "Meta AI" [ref=e546] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+          - generic [ref=e395]: Meta AI
+        - link "Threads" [ref=e547] [cursor=pointer]:
+          - /url: https://www.threads.com/
+          - generic [ref=e398]: Threads
+        - link "연락처 업로드 & 비사용자" [ref=e548] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+          - generic [ref=e401]: 연락처 업로드 & 비사용자
+        - link "Meta Verified" [ref=e549] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=e404]: Meta Verified
+      - generic [ref=e405]:
+        - generic [ref=e406] [cursor=pointer]:
+          - generic [ref=e407]:
+            - generic [ref=e408]: 한국어
+            - img "아래쪽 V자형 아이콘" [ref=e550]
+          - combobox "표시 언어 변경" [ref=e551]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어" [selected]
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)"
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=e415]: © 2026 Instagram from Meta

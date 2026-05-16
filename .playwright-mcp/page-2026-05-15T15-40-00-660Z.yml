@@ -1,0 +1,261 @@
+- generic [ref=e1]:
+  - generic [ref=e11]:
+    - generic [ref=e13]:
+      - link [ref=e552] [cursor=pointer]:
+        - /url: /
+        - img [ref=e553]
+      - generic [ref=e24]:
+        - link [ref=e554] [cursor=pointer]:
+          - /url: /accounts/login/?next=%2Fcoupangplay%2Freels%2F&source=desktop_nav
+          - text: 로그인
+        - link [ref=e555] [cursor=pointer]:
+          - /url: /accounts/emailsignup/
+          - text: 가입하기
+    - main [ref=e29]:
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - button [disabled] [ref=e556]:
+            - link [disabled] [ref=e557]:
+              - img [ref=e558]
+          - generic [ref=e38]:
+            - generic [ref=e39]:
+              - generic [ref=e40]:
+                - heading [level=2] [ref=e559]: coupangplay
+                - img [ref=e560]
+              - button [ref=e561] [cursor=pointer]:
+                - img [ref=e562]
+            - generic [ref=e53]: 쿠팡플레이 Coupang Play
+            - list [ref=e55]:
+              - listitem [ref=e56]:
+                - link [ref=e563] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e59]:
+                    - text: 게시물
+                    - generic [ref=e60]: "5520"
+              - listitem [ref=e61]:
+                - link [ref=e564] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e64]:
+                    - text: 팔로워
+                    - generic [ref=e565]: 18.8만
+              - listitem [ref=e66]:
+                - link [ref=e566] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e69]:
+                    - text: 팔로우
+                    - generic [ref=e70]: "139"
+            - generic [ref=e76]: 😆<SNL 코리아> 매주 토 저녁 8시 💓<로맨스의 절댓값> 매주 금 저녁 8시 공개 🥐<봉주르빵집> 매주 금 오후 4시 공개
+        - menu [ref=e77]:
+          - generic [ref=e79]:
+            - list [ref=e81]:
+              - listitem [ref=e82]
+              - listitem [ref=e83]
+              - listitem [ref=e84]:
+                - menuitem [ref=e567] [cursor=pointer]:
+                  - link [ref=e568]:
+                    - /url: /stories/highlights/18076508714390442/
+                    - button [disabled] [ref=e569]:
+                      - img [ref=e570]
+                  - generic [ref=e94]: 로맨스의 절댓값
+              - listitem [ref=e95]:
+                - menuitem [ref=e571] [cursor=pointer]:
+                  - link [ref=e572]:
+                    - /url: /stories/highlights/18116516818669459/
+                    - button [disabled] [ref=e573]:
+                      - img [ref=e574]
+                  - generic [ref=e105]: 봉주르빵집
+              - listitem [ref=e106]:
+                - menuitem [ref=e575] [cursor=pointer]:
+                  - link [ref=e576]:
+                    - /url: /stories/highlights/17958524313105445/
+                    - button [disabled] [ref=e577]:
+                      - img [ref=e578]
+                  - generic [ref=e116]: 원희는 스무살
+              - listitem [ref=e117]:
+                - menuitem [ref=e579] [cursor=pointer]:
+                  - link [ref=e580]:
+                    - /url: /stories/highlights/17999809448862583/
+                    - button [disabled] [ref=e581]:
+                      - img [ref=e582]
+                  - generic [ref=e127]: 쿠레이션
+              - listitem [ref=e128]:
+                - menuitem [ref=e583] [cursor=pointer]:
+                  - link [ref=e584]:
+                    - /url: /stories/highlights/18075733046530794/
+                    - button [disabled] [ref=e585]:
+                      - img [ref=e586]
+                  - generic [ref=e138]: 콘텐츠 패스
+              - listitem [ref=e139]:
+                - menuitem [ref=e587] [cursor=pointer]:
+                  - link [ref=e588]:
+                    - /url: /stories/highlights/18138593815510142/
+                    - button [disabled] [ref=e589]:
+                      - img [ref=e590]
+                  - generic [ref=e149]: SNL 코리아
+              - listitem [ref=e150]:
+                - menuitem [ref=e591] [cursor=pointer]:
+                  - link [ref=e592]:
+                    - /url: /stories/highlights/17939163405016266/
+                    - button [disabled] [ref=e593]:
+                      - img [ref=e594]
+                  - generic [ref=e160]: 쿠플 스포츠
+              - listitem [ref=e161]:
+                - menuitem [ref=e595] [cursor=pointer]:
+                  - link [ref=e596]:
+                    - /url: /stories/highlights/17927190258065159/
+                    - button [disabled] [ref=e597]:
+                      - img [ref=e598]
+                  - generic [ref=e171]: 샤크탱크 코리아
+            - button [ref=e599] [cursor=pointer]
+        - tablist [ref=e175]:
+          - link [ref=e600] [cursor=pointer]:
+            - /url: /coupangplay/
+            - img [ref=e601]
+          - link [ref=e602] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e603]
+          - link [ref=e604] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e605]
+        - generic [ref=e196]:
+          - generic [ref=e197]:
+            - link [ref=e606] [cursor=pointer]:
+              - /url: /coupangplay/reel/DYWn8hmSpMi/
+              - generic [ref=e206]:
+                - img [ref=e607]
+                - generic [ref=e210]: 3.6만
+            - link [ref=e608] [cursor=pointer]:
+              - /url: /coupangplay/reel/DYWg_WgOl3x/
+              - generic [ref=e219]:
+                - img [ref=e609]
+                - generic [ref=e223]: "8455"
+            - link [ref=e610] [cursor=pointer]:
+              - /url: /coupangplay/reel/DYWaR6aDFgI/
+              - generic [ref=e232]:
+                - img [ref=e611]
+                - generic [ref=e236]: 5.8만
+            - link [ref=e612] [cursor=pointer]:
+              - /url: /coupangplay/reel/DYWFuO8CTr1/
+              - generic [ref=e245]:
+                - img [ref=e613]
+                - generic [ref=e249]: 14.8만
+          - generic [ref=e250]:
+            - link [ref=e614] [cursor=pointer]:
+              - /url: /coupangplay/reel/DYUX6AVjbF0/
+              - generic [ref=e259]:
+                - img [ref=e615]
+                - generic [ref=e263]: 2.4만
+            - link [ref=e616] [cursor=pointer]:
+              - /url: /coupangplay/reel/DYURBr1GRnz/
+              - generic [ref=e272]:
+                - img [ref=e617]
+                - generic [ref=e276]: 4.6만
+            - link [ref=e618] [cursor=pointer]:
+              - /url: /coupangplay/reel/DYT8b0xDB4e/
+              - generic [ref=e285]:
+                - img [ref=e619]
+                - generic [ref=e289]: 1.6만
+            - link [ref=e620] [cursor=pointer]:
+              - /url: /coupangplay/reel/DYTZ-3GjaAe/
+              - generic [ref=e298]:
+                - img [ref=e621]
+                - generic [ref=e302]: 11.9만
+          - generic [ref=e303]:
+            - link [ref=e622] [cursor=pointer]:
+              - /url: /coupangplay/reel/DYTFblIGuH3/
+              - generic [ref=e312]:
+                - img [ref=e623]
+                - generic [ref=e316]: 28.2만
+            - link [ref=e624] [cursor=pointer]:
+              - /url: /coupangplay/reel/DYS-j1ODsU8/
+              - generic [ref=e325]:
+                - img [ref=e625]
+                - generic [ref=e329]: 65.5만
+            - link [ref=e626] [cursor=pointer]:
+              - /url: /coupangplay/reel/DYPHy77jpSb/
+              - generic [ref=e338]:
+                - img [ref=e627]
+                - generic [ref=e342]: 10.9만
+            - link [ref=e628] [cursor=pointer]:
+              - /url: /coupangplay/reel/DYPHWgUgeEq/
+              - generic [ref=e351]:
+                - img [ref=e629]
+                - generic [ref=e355]: 2.6만
+    - contentinfo [ref=e356]:
+      - generic [ref=e357]:
+        - generic [ref=e359]:
+          - link [ref=e630] [cursor=pointer]:
+            - /url: https://about.meta.com/
+            - generic [ref=e362]: Meta
+          - link [ref=e631] [cursor=pointer]:
+            - /url: https://about.instagram.com/
+            - generic [ref=e365]: 소개
+          - link [ref=e632] [cursor=pointer]:
+            - /url: https://about.instagram.com/blog/
+            - generic [ref=e368]: 블로그
+          - link [ref=e633] [cursor=pointer]:
+            - /url: https://about.instagram.com/about-us/careers
+            - generic [ref=e371]: 채용 정보
+          - link [ref=e634] [cursor=pointer]:
+            - /url: https://help.instagram.com/
+            - generic [ref=e374]: 도움말
+          - link [ref=e635] [cursor=pointer]:
+            - /url: https://developers.facebook.com/docs/instagram
+            - generic [ref=e377]: API
+          - link [ref=e636] [cursor=pointer]:
+            - /url: /legal/privacy/
+            - generic [ref=e380]: 개인정보처리방침
+          - link [ref=e637] [cursor=pointer]:
+            - /url: /legal/terms/
+            - generic [ref=e383]: 약관
+          - link [ref=e638] [cursor=pointer]:
+            - /url: /explore/locations/
+            - generic [ref=e386]: 위치
+          - link [ref=e639] [cursor=pointer]:
+            - /url: /popular/
+            - generic [ref=e389]: 인기
+          - link [ref=e640] [cursor=pointer]:
+            - /url: /web/lite/
+            - generic [ref=e392]: Instagram Lite
+          - link [ref=e641] [cursor=pointer]:
+            - /url: https://www.meta.ai/?utm_source=foa_web_footer
+            - generic [ref=e395]: Meta AI
+          - link [ref=e642] [cursor=pointer]:
+            - /url: https://www.threads.com/
+            - generic [ref=e398]: Threads
+          - link [ref=e643] [cursor=pointer]:
+            - /url: https://www.facebook.com/help/instagram/261704639352628
+            - generic [ref=e401]: 연락처 업로드 & 비사용자
+          - link [ref=e644] [cursor=pointer]:
+            - /url: /accounts/meta_verified/?entrypoint=web_footer
+            - generic [ref=e404]: Meta Verified
+        - generic [ref=e405]:
+          - generic [ref=e406] [cursor=pointer]:
+            - generic [ref=e407]:
+              - generic [ref=e408]: 한국어
+              - img [ref=e645]
+            - combobox [ref=e646]
+          - generic [ref=e415]: © 2026 Instagram from Meta
+  - dialog [ref=e658]:
+    - generic [ref=e659]:
+      - button "닫기" [active] [ref=e661] [cursor=pointer]:
+        - img "닫기" [ref=e663]
+      - generic [ref=e667]:
+        - generic [ref=e668]:
+          - img "이 스토리 보기 업셀링 일러스트레이션" [ref=e670]
+          - generic [ref=e672]:
+            - generic [ref=e673]: 더 많은 게시물을 확인해보세요
+            - generic [ref=e675]:
+              - strong [ref=e676]: coupangplay
+              - text: 님의 프로필에 있는 소식을 확인해보세요.
+            - generic [ref=e678]:
+              - text: 계속하면 Instagram
+              - link "이용 약관" [ref=e679] [cursor=pointer]:
+                - /url: https://help.instagram.com/581066165581870/?locale=ko_KR
+              - text: 및
+              - link "개인정보처리방침" [ref=e680] [cursor=pointer]:
+                - /url: https://privacycenter.instagram.com/policy/
+              - text: 에 동의하게 됩니다.
+        - generic [ref=e681]:
+          - button "가입하기" [ref=e684] [cursor=pointer]
+          - button "로그인" [ref=e687] [cursor=pointer]
