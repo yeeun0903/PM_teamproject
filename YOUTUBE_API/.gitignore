@@ -1,2 +1,7 @@
+.env
+.DS_Store
 .ipynb_checkpoints/
-.DB_Store
+venv/
+db/
+__pycache__/
+*.pyc
