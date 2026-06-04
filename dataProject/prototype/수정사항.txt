@@ -1,0 +1,79 @@
+<가로모드 전환 모바일 확인 방법>
+로컬에서 모바일로 테스트하는 방법:
+
+**1. 같은 WiFi에서 핸드폰으로 접속**
+```
+# 터미널에서 내 IP 확인
+ipconfig (Windows) / ifconfig (Mac)
+
+# 핸드폰 브라우저에서
+http://[내IP]:3000/detail/smile
+```
+
+**2. Chrome DevTools 모바일 에뮬레이터**
+- F12 → 상단 모바일 아이콘 클릭
+- 기기 선택 (iPhone 14 등)
+- 단, 가로 전환(`screen.orientation.lock`)은 에뮬레이터에서 동작 안 함
+
+**결론**: `screen.orientation.lock`은 **실제 모바일 브라우저에서만** 작동해. 에뮬레이터로는 확인 불가능하고, 핸드폰으로 직접 접속해서 테스트하는 게 맞아.
+
+WiFi 같은 네트워크에 연결되어 있어?
+
+=================================================================================
+
+<광고 배너 관련 수정사항>
+
+1. 배너 위치 오른쪽 하단 이동
+2. 배너 버튼 디자인 ad_banner_book.png 및 7개 이미지로 교체 (별도 프레임 씌울 필요없음)
+3. X 버튼은 배너 이미지 안에 오른쪽 상단 위치(1분 후 작동)
+4. 광고배너 노출 시점 : 첫번째 (영상 시작후 즉시), 두번째 배너 (1분 10초 이후 교체)
+5. 버튼 클릭시 이동되는 페이지 정리
+1) 스마일클리닉 콘텐츠
+- ad_banner_tumbler.png (영상 시작후 즉시)
+www.coupang.com
+- ad_banner_cake.png (1분 10초 이후 교체)
+https://web.coupangeats.com/share?storeId=756683&dishId=107238778&key=4e00e7af-4bf7-4e17-8108-4e8fc8af37f7
+
+2) 연장전 콘텐츠
+- ad_banner_powerade.png (영상 시작후 즉시)
+https://www.coupang.com/vp/products/8157286425?itemId=20072566228&vendorItemId=3000415078&pickType=COU_PICK&sourceType=srp_product_ads&clickEventId=ec4251a0-56b3-11f1-9868-fb63cc7e5845&korePlacement=15&koreSubPlacement=1&clickEventId=ec4251a0-56b3-11f1-9868-fb63cc7e5845&korePlacement=15&koreSubPlacement=1
+- ad_banner_dumbell.png (1분 10초 이후 교체)
+https://www.coupang.com/vp/products/7730868823?itemId=25094214124&vendorItemId=92097879249&q=%ED%97%AC%EC%8A%A4&searchId=c6245ccf13860645&sourceType=search&itemsCount=60&searchRank=6&rank=6&traceId=mpifz5fs
+
+3) 15focus 콘텐츠
+- ad_banner_book.png (영상 시작후 즉시)
+https://www.coupang.com/vp/products/8410736113?itemId=24318538611&vendorItemId=91354972670&src=1191000&spec=10999999&addtag=400&ctag=8410736113&lptag=CFM90208377&itime=20260527102346&pageType=PRODUCT&pageValue=8410736113&wPcid=17661500178462299266815&wRef=&wTime=20260527102346&redirect=landing&abTestInfo=&mcid=c5ff11320fe24246ac299459237f373f&sharesource=sharebutton&style=&isshortened=Y&settlement=N
+- ad_banner_diet.png (1분 10초 이후 교체)
+https://www.coupang.com/vp/products/8358241472?itemId=28222147803&vendorItemId=95176053371&src=1191000&spec=10999999&addtag=400&ctag=8358241472&lptag=CFM90208377&itime=20260527102426&pageType=PRODUCT&pageValue=8358241472&wPcid=17661500178462299266815&wRef=&wTime=20260527102426&redirect=landing&abTestInfo=&mcid=39fe8c0f08374a17a340d75e9bf5f558&sharesource=sharebutton&style=&isshortened=Y&settlement=N
+
+4) 선넘는사이 콘텐츠
+- ad_banner_pants.png (영상 시작후 즉시)
+https://www.coupang.com/vp/products/8654043570?itemId=25123346478&vendorItemId=92122627326&sourceType=srp_product_ads&clickEventId=04b922e0-56b4-11f1-908b-dc528e67c91e&korePlacement=15&koreSubPlacement=1&clickEventId=04b922e0-56b4-11f1-908b-dc528e67c91e&korePlacement=15&koreSubPlacement=1&traceId=mpig4xfk
+- ad_banner_tteok.png (1분 10초 이후 교체)
+https://web.coupangeats.com/share?storeId=120410&dishId&key=8c1364d9-1acd-4b65-80b1-e2be62aa5b64
+
+6. 광고 배너 띄우는 타이밍 수정
+1) 스마일클리닉 콘텐츠
+- ad_banner_tumbler.png (수정 : 0분 6초)
+- ad_banner_cake.png (수정 : 0분 41초 교체)
+
+2) 연장전 콘텐츠
+- ad_banner_powerade.png (영상 시작후 즉시 유지)
+- ad_banner_dumbell.png (1분 30초 이후 교체)
+
+3) 15focus 콘텐츠
+- ad_banner_book.png (영상 시작후 즉시 유지)
+- ad_banner_diet.png (수정 : 1분 30초 이후 교체)
+
+4) 선넘는사이 콘텐츠
+- ad_banner_pants.png (영상 시작후 즉시 유지)
+- ad_banner_tteok.png (수정 : 1분 28초 이후 교체)
+
+
+
+=================================================================================
+
+<재생관련 인터페이스 수정사항>
+- display_click.png 파일 확인
+- 지금은 재생중, 플레이 버튼만 있는데 이 이미지처럼 버튼이 들어갔으면 좋겠고, svg로 넣어줘 
+

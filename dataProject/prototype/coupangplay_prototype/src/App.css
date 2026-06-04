@@ -1,0 +1,34 @@
+* { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+body { 
+  font-family: 'Pretendard', -apple-system, sans-serif; 
+  background: #000; 
+  color: #fff;
+  max-width: 480px;
+  margin: 0 auto;
+}
+button { border: none; background: none; cursor: pointer; color: inherit; font-family: inherit; }
+a { text-decoration: none; color: inherit; }
+img { display: block; }
+
+.toast {
+  position: fixed;
+  bottom: 100px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(255,255,255,0.15);
+  backdrop-filter: blur(10px);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 14px;
+  z-index: 9999;
+  animation: fadeInOut 2s ease forwards;
+  white-space: nowrap;
+}
+@keyframes fadeInOut {
+  0% { opacity: 0; transform: translateX(-50%) translateY(10px); }
+  20% { opacity: 1; transform: translateX(-50%) translateY(0); }
+  80% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
